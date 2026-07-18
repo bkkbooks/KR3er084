@@ -1468,6 +1468,7 @@ markers:
   - {type: punctuation, offset: 2904, content: 。, id: KR3er084_jc_001-bkkpn575}
   - {type: 'tls:seg', offset: 2904, content: '', id: KR3er084_jc_001-d3.d14.p68s6}
   - {type: punctuation, offset: 2904, content: (, id: KR3er084_jc_001-bkkpn576}
+  - {type: 'voice:problem', offset: 2904, length: 148, id: KR3er084_bkk_001-bkkvprob1, source: parens, bucket: body, code: expected-close, message: 'expected '')'' after ''('' at offset 2904, got ''('' at offset 3052'}
   - {type: xml-element, offset: 2905, content: '', id: KR3er084_jc_001-d3.d14p68_end, name: p, role: close, attrs: {'xml:id': KR3er084_jc_001-d3.d14p68}}
   - {type: xml-element, offset: 2905, content: '', id: KR3er084_jc_001-d3.d14p70, name: p, role: open, attrs: {'xml:id': KR3er084_jc_001-d3.d14p70}}
   - {type: 'tls:seg', offset: 2905, content: '', id: KR3er084_jc_001-d3.d14.p70s1}
@@ -3939,4 +3940,4 @@ markers:
   - {type: punctuation, offset: 8025, content: 。, id: KR3er084_jc_001-bkkpn1556}
   - {type: xml-element, offset: 8025, content: '', id: KR3er084_jc_001-d3.d26p14_end, name: p, role: close, attrs: {'xml:id': KR3er084_jc_001-d3.d26p14}}
   back: []
-hash: sha256:6ec2e505790c3b151d7dc594b89491fc435b4891c9de351c2b509a20991c8d4c
+hash: sha256:03ada20127c67be320af3508a7df07cf835a13da79f6a4a21ce3de35019d451b
